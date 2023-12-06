@@ -1,2 +1,2 @@
-# Google-DA-Project-1
-Google Data Analysis Profession Certificate Case Study #1 with Python.
+# Google Data Analytics Case Study #1 with Pyhton.
+## Overview:
